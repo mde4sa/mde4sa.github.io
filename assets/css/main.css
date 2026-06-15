@@ -1135,6 +1135,12 @@ a.back-to-top:hover, a.back-to-top:focus {
   margin-right: 5px;
 }
 
+.announcement-section {
+  background: #E91E63;
+  overflow: hidden;
+  position: relative;
+
+}
 .accordion .card {
   border-radius: 0px;
   margin-bottom: -2px;
